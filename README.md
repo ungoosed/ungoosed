@@ -1,2 +1,4 @@
 ## Hi, im @ungoosed
-web dev good
+javascript
+phaser
+java
