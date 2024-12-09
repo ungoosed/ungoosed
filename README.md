@@ -1,4 +1,5 @@
 ## Hi, im @ungoosed
-javascript
-phaser
-java
+javascript,
+nuxt,
+phaser,
+
