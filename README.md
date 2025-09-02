@@ -6,11 +6,7 @@ phaser,
 
 ### frequent applications: 
 zen browser
-zed editor
 prism launcher
-aseprite
-linux mint
-festival music player
-olympus launcher
+zed editor
 
 
